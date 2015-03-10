@@ -1,0 +1,69 @@
+
+ans =
+
+   Empty matrix: 1-by-0
+
+
+ans =
+
+   Empty matrix: 1-by-0
+
+
+B =
+
+    16
+
+
+ans =
+
+   Empty matrix: 1-by-0
+
+
+ans =
+
+   Empty matrix: 1-by-0
+
+
+ans =
+
+    16    17
+
+
+ans =
+
+   Empty matrix: 1-by-0
+
+
+ans =
+
+    16    17    18
+
+
+ans =
+
+   Empty matrix: 1-by-0
+
+
+B =
+
+    16
+
+
+ans =
+
+    16    17
+
+
+ans =
+
+   Empty matrix: 1-by-0
+
+
+ans =
+
+   Empty matrix: 1-by-0
+
+
+ans =
+
+   Empty matrix: 1-by-0
